@@ -28,8 +28,7 @@ This api will contain endpoints for
 
 ## 1.API Documentation Link
 
-API Documentation can be found on this link [University Timetable API Documentation]([https://documenter.getpostman.com/view/25158331/2sA35BbQ7h](https://.postman.co/workspace/My-Workspace~e89fc5b6-3be4-42ce-8f47-1b64ba6d4d90/collection/25158331-0c70d0cc-34e3-41f6-8362-773f0075b1ff?action=share&creator=25158331)).
-
+API Documentation can be found on this link [University Timetable API Documentation](https://documenter.getpostman.com/view/25158331/2sA35BbQ7h).
 
 ## 2.Setup & Installation
 
